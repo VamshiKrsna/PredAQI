@@ -32,3 +32,4 @@ def aqi_extractor(city_name):
 
 print(aqi_extractor("Hyderabad"))
 print(aqi_extractor("Paris"))
+print(aqi_extractor("Kolkata"))
